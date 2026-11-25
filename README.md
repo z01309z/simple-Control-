@@ -3,7 +3,7 @@ simple Control  By z01309z
 
 License
 
-Copyright © 2026 . All rights reserved.
+Copyright © . All rights reserved.
 
 This project is developed and owned by z01309z .
 
